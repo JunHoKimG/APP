@@ -30,7 +30,11 @@
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".IMCCALC"
+            android:name=".IMC_CALC"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".FormularioActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
     </application>
